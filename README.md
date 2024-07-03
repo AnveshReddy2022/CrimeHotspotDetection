@@ -31,6 +31,6 @@ For those interested in extending their understanding beyond spatial analysis:
 - **Time Series Forecasting**: Delve into the patterns of crime incidence over time, which can help in predicting seasonal trends and understanding the impact of various external factors on crime rates.
 
 ## How to Navigate This Repository
-- **Begin with Clustering Analysis**: This section offers comprehensive insights into the spatial dynamics of crime, highlighting the core of my analytical efforts. Files in use: Source Code- "ClusteringNotebook", Output results pdf: "Clustering Folium Map Results", Presentation - Crime hot-spot detection
+- **Begin with Clustering Analysis**: This section offers comprehensive insights into the spatial dynamics of crime, highlighting the core of my analytical efforts. Files in use: Source Code- "Clustering", Output results pdf: "Clustering Folium Map Results", Presentation - Crime hot-spot detection
 - **Explore Machine Learning and Time Series**: If you're interested in predictive analytics and temporal trends, these sections provide additional depth and broader analytical perspectives. Files in use: Navigate through MachineLearningAndTimeSeries, Source code Machine Learning - "Machine_learning", Source code Time Series Analysis - "TSA"
 - **Visualizations**: Leverage detailed visualizations for a graphical interpretation of both the clustering outcomes and predictive analyses.
